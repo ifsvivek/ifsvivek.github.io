@@ -12,7 +12,7 @@ Anyways have a good day
 
 **Links**
 
-* [GitHub](https://github.com/ifsvivek)
+* [GitHub](https://github.com/ifsvivek){:target="_blank"}
 * [Twitter](https://twitter.com/ifsvivek)
 * [LinkedIn](https://www.linkedin.com/in/vivek-sharma-9a0641254)
 * [YouTube](https://www.youtube.com/@ifsvivek)
