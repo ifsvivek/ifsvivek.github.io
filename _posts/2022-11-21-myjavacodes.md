@@ -90,8 +90,8 @@ this was me Vivek Sharma.
 
 **LINKS**
 
-* [Twitter](https://twitter.com/ifsvivek/)
-* [Github](https://github.com/ifsvivek/)
-* [Youtube](https://www.youtube.com/@ifsvivek)
+* [Twitter](https://twitter.com/ifsvivek/){:target="_blank"}
+* [Github](https://github.com/ifsvivek/){:target="_blank"}
+* [Youtube](https://www.youtube.com/@ifsvivek){:target="_blank"}
 
 cyaa...
