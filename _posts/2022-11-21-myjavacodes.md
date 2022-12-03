@@ -81,7 +81,7 @@ public class p27 {
 }
 ```
 
-if you have any questions you can contact my PA on [Twitter](https://twitter.com/sadistic_adi).
+if you have any questions you can contact my PA on [Twitter](https://twitter.com/spyscientist03).
 
 so yeah, let see how long will i continues to write these post
 , anyhow no one will see this.
